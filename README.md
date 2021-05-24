@@ -1,5 +1,7 @@
-# Co-Win site automation for OTP login.
+# Co-Win site automation for OTP login page.
 Powered By: Selenium Web Driver & DotnetCore.
+
+NOTE: This script doesn't automate the OTP login process or removes human intervention. This script is only intended to remove the manual steps shown below.
 
 #### Q: What will this script do ?
 It will do the following.
